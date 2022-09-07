@@ -56,7 +56,7 @@ class Pakaian {
   }
 
   // setter
-  set ukuran(String? newUkuran) {
+  set setukuran(String? newUkuran) {
     _ukuran = newUkuran;
   }
 
